@@ -18,11 +18,11 @@
 </p>
 
 <h3 align="left">Ferramentas e Tecnologia:</h3>
-<p align="left"><i class="devicon-java-plain-wordmark colored"></i><i class="devicon-spring-plain-wordmark colored"></i><i class="devicon-javascript-plain colored"</i>
+<i class="devicon-java-plain-wordmark colored"></i><i class="devicon-spring-plain-wordmark colored"></i><i class="devicon-javascript-plain colored"</i>
   <i class="devicon-html5-plain-wordmark colored"><i class="devicon-css3-plain-wordmark colored"></i></i><i class="devicon-angularjs-plain-wordmark colored"></i>
   <i class="devicon-bootstrap-plain-wordmark colored"></i><i class="devicon-figma-plain colored"></i><i class="devicon-github-original-wordmark colored"></i>
   <i class="devicon-intellij-plain-wordmark colored"></i><i class="devicon-mysql-plain-wordmark colored"></i><i class="devicon-php-plain colored"></i>
-  <i class="devicon-visualstudio-plain-wordmark colored"></i><i class="devicon-trello-plain-wordmark colored"></i><i class="devicon-microsoftsqlserver-plain-wordmark colored"></i><i class="devicon-linux-plain colored"></i></p>
+  <i class="devicon-visualstudio-plain-wordmark colored"></i><i class="devicon-trello-plain-wordmark colored"></i><i class="devicon-microsoftsqlserver-plain-wordmark colored"></i><i class="devicon-linux-plain colored"></i>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evertonriquetti&show_icons=true&locale=en&layout=compact" alt="evertonriquetti" /></p>
 
