@@ -18,6 +18,7 @@
 </p>
 
 <h3 align="left">Ferramentas e Tecnologia:</h3>
+<p float="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
@@ -32,6 +33,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evertonriquetti&show_icons=true&locale=en&layout=compact" alt="evertonriquetti" /></p>
 
