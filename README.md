@@ -28,7 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evertonriquetti&show_icons=true&locale=en" alt="evertonriquetti" /></p>
 
-![Snake animation](https://github.com/evertonriquetti/evertonriquetti/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
