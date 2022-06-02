@@ -18,11 +18,20 @@
 </p>
 
 <h3 align="left">Ferramentas e Tecnologia:</h3>
-<i class="devicon-java-plain-wordmark colored"></i><i class="devicon-spring-plain-wordmark colored"></i><i class="devicon-javascript-plain colored"</i>
-  <i class="devicon-html5-plain-wordmark colored"><i class="devicon-css3-plain-wordmark colored"></i></i><i class="devicon-angularjs-plain-wordmark colored"></i>
-  <i class="devicon-bootstrap-plain-wordmark colored"></i><i class="devicon-figma-plain colored"></i><i class="devicon-github-original-wordmark colored"></i>
-  <i class="devicon-intellij-plain-wordmark colored"></i><i class="devicon-mysql-plain-wordmark colored"></i><i class="devicon-php-plain colored"></i>
-  <i class="devicon-visualstudio-plain-wordmark colored"></i><i class="devicon-trello-plain-wordmark colored"></i><i class="devicon-microsoftsqlserver-plain-wordmark colored"></i><i class="devicon-linux-plain colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evertonriquetti&show_icons=true&locale=en&layout=compact" alt="evertonriquetti" /></p>
 
