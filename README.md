@@ -1,6 +1,6 @@
 <h1 align="center">Olá, me chamo Everton Riquetti !</h1> 
 <h2 align="center">Bem vindo ao meu perfil GitHub 👋</h2>
-<h4 align="center">Estudando Desenvolvimento Web Full-Stack</h4>
+<h4 align="center">Estudando Análise e Desenvolviemnto de Sistemas</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=evertonriquetti&label=Profile%20views&color=0e75b6&style=flat" alt="evertonriquetti" /> </p>
 
